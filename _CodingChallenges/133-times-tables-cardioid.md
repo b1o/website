@@ -73,6 +73,13 @@ contributions:
       url: "https://github.com/Muskar"
     url: "https://muskar.github.io/p5jsfun/"
     source: "https://github.com/Muskar/p5jsfun"
+  - title: "Cardioid animation with colors"
+    author:
+       name: "Danail Stoyanov"
+       url: "https://github.com/b1o"
+    url: "https://editor.p5js.org/nyctoss/sketches/1PhJy9pg0"
+    source: "https://editor.p5js.org/nyctoss/sketches/1PhJy9pg0"
+   
 ---
 
 In this video, I visualize the "mathematical heart" Cardioid using times tables calculations.
